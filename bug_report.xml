@@ -1,1 +1,11 @@
-
+<xml>
+<Summary>Brief description of the problem</Summary>
+<Project>Name of the tested project</Project>
+<Component>The name of the part or function of the project under test</Component>
+<Version>The version on which the bug was found</Version>
+<Environment>Environment where the error was found</Environment>
+<Steps>Reproduction steps</Steps>
+<Actual>Actual resul</Actual>
+<Expected>Expected result</Expected>
+<Autor>Name</Autor>
+<Status>Bug Status</Status>
